@@ -21,22 +21,22 @@
 #### Here we can se different colors of date fields black red and orange, they represent notification if black you are a day late for watering the plant, if red it is watering day and if the color is orange the next day is watering day.
 #### When the button "Zaliveno" is pressed the dates move,  first date to the todays date, and second is calculated by adding the number of the days that are in database for watering for that plant. If you press the button and the date is today it wont respond since you can't water plant in the future time. 
 
-https://github.com/andrea6666/Biljke_Desktop_CRUD_DBConnectedApp/assets/45822712/54118734-24d6-4813-bdf8-eab411d7d5dc
+https://github.com/andrea6666/Biljke_Desktop_CRUD_DBconnection_App/assets/45822712/430c4b4f-f243-4913-a16c-44e490aa37c6
 
 ### Deleting a plant:
 #### Here you can see how to delete the plant. Plants are read in the dropdown list from a database each time. When you delete a plant there is window asking if you are sure, if you don't select plant there is window asking you to select plant and if you delete the plant list doesn't show the plant any longer. 
 
-https://github.com/andrea6666/Biljke_Desktop_CRUD_DBConnectedApp/assets/45822712/ce3ab45b-d463-4db8-a595-856bc73a0326
+https://github.com/andrea6666/Biljke_Desktop_CRUD_DBconnection_App/assets/45822712/0619df79-0947-4d33-8d66-e6596b09fc57
 
 ### Editing a plant:
 #### Here you can edit an existing plant, it should be selected from dropdown list, and than any field can be changed, if the plant isn't selected there is warning window that will tell you that you didn't select the plant. There is no need to change all fields just required once and plant name has to be unique it can't exist in database.
 
-https://github.com/andrea6666/Biljke_Desktop_CRUD_DBConnectedApp/assets/45822712/17bbf763-9fd1-495e-a9a5-e5996b8b7919
+https://github.com/andrea6666/Biljke_Desktop_CRUD_DBconnection_App/assets/45822712/64fa8b78-d57e-4c15-a0e8-ff9e293a31cd
 
 ### No connection window:
 #### Here is the window that pops up if there is no database connection. It runs instead of main application window, when closed the program stops running.
 
-https://github.com/andrea6666/Biljke_Desktop_CRUD_DBConnectedApp/assets/45822712/d500a1b5-7f55-475d-aa77-7a8a0f5649d7
+https://github.com/andrea6666/Biljke_Desktop_CRUD_DBconnection_App/assets/45822712/35f74a86-8ea5-4366-a0c2-6fcdc86d3831
 
 
 
